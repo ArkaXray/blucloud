@@ -13,25 +13,15 @@ I'm Parsa, passionate about digital creativity, visual design, and competitive g
 ### Creative Software
 
 <p align="left">
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="45" alt="Photoshop" />
-  </a>
-  &nbsp;
-  <a href="https://www.adobe.com/products/premiere.html">
-    <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" width="45" alt="Premiere Pro" />
-  </a>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Adobe Premiere Pro" />
 </p>
 
 ### Gaming
 
 <p align="left">
-  <a href="https://store.steampowered.com/app/730/CounterStrike_2/">
-    <img src="https://cdn.simpleicons.org/counterstrike/DE9B35" width="45" alt="Counter-Strike 2" />
-  </a>
-  &nbsp;
-  <a href="https://www.callofduty.com/warzone">
-    <img src="https://cdn.simpleicons.org/callofduty/FFFFFF" width="45" alt="Call of Duty Warzone" />
-  </a>
+  <img src="https://img.shields.io/badge/Counter--Strike_2-1A1A1A?style=for-the-badge&logo=counterstrike&logoColor=F0B232" alt="Counter-Strike 2" />
+  <img src="https://img.shields.io/badge/Call_of_Duty_Warzone-222222?style=for-the-badge&logo=callofduty&logoColor=FFFFFF" alt="Call of Duty Warzone" />
 </p>
 
 ### Interests
