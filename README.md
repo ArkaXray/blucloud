@@ -1,30 +1,48 @@
-# Hi, I'm Parsa 👋
+# Parsa
 
-💻 Tech Enthusiast | 🎮 Gamer | 🎨 Creative Mind
+**Digital Creative | Gaming Enthusiast | Technology Explorer**
 
-I'm Parsa, based in **Tehran, Iran**.
-
-I'm passionate about gaming, digital creativity, and exploring the world of technology.
-
-### 🎮 Gaming Interests
-- Counter-Strike 2 (CS2)
-- Call of Duty: Warzone
-
-### 🎨 Creative Interests
-- Adobe Photoshop
-- Adobe Premiere Pro
-- Graphic Design
-- Video Editing
-
-### 🚀 A Little About Me
-- 📍 Based in Tehran, Iran
-- 🎮 Competitive gaming enthusiast
-- 🎨 Interested in photo manipulation and video editing
-- 💡 Always exploring new creative ideas and technologies
-
-### 📫 Connect With Me
-- GitHub: [@Parsa](https://github.com/)
+📍 Tehran, Iran
 
 ---
 
-*Gaming is my passion, creativity is my way of expression.*
+### About Me
+
+I'm Parsa, passionate about digital creativity, visual design, and competitive gaming. I enjoy exploring creative software, experimenting with visual concepts, and continuously improving my skills.
+
+### Creative Software
+
+<p align="left">
+  <a href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="45" alt="Photoshop" />
+  </a>
+  &nbsp;
+  <a href="https://www.adobe.com/products/premiere.html">
+    <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" width="45" alt="Premiere Pro" />
+  </a>
+</p>
+
+### Gaming
+
+<p align="left">
+  <a href="https://store.steampowered.com/app/730/CounterStrike_2/">
+    <img src="https://cdn.simpleicons.org/counterstrike/DE9B35" width="45" alt="Counter-Strike 2" />
+  </a>
+  &nbsp;
+  <a href="https://www.callofduty.com/warzone">
+    <img src="https://cdn.simpleicons.org/callofduty/FFFFFF" width="45" alt="Call of Duty Warzone" />
+  </a>
+</p>
+
+### Interests
+
+- Digital Art & Image Manipulation
+- Video Editing & Post-Production
+- Competitive FPS Gaming
+- Creative Technology
+
+---
+
+<p align="center">
+  <sub>CREATIVITY · GAMING · CONTINUOUS GROWTH</sub>
+</p>
